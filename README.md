@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.0-ensayo/Reliquia_1.2.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.1-ensayo/Reliquia_1.2.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.0-ensayo/Reliquia_1.2.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.1-ensayo/Reliquia_1.2.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.2.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.2.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,12 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.2.1
+
+**Mejorado**
+
+- En la carta grande, los acabados de una carta ya no salen como una fila de botones (con tantos acabados se hacía una montaña). Ahora «Tus copias» junta las copias de todos sus acabados en una sola lista: cada fila dice su acabado, y al tocarla la carta grande muestra esa copia con ese acabado.
+
 ## Novedades de la 1.2.0
 
 **Agregado**
@@ -78,12 +84,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - El desgaste de las cartas ya no lava los acabados: las arrugas aclaraban toda la carta (en Holo, Shiny o Platino se veía blanca y sin detalle), el doblez era una franja blanca muy ancha y las cartas deslavadas o amarillentas perdían su acabado (el Negativo dejaba de verse en negativo).
 - Se quitaron los botones «← Antes» y «Después →» de la carta en grande; se confundían con las flechas para pasar de carta.
-
-## Novedades de la 1.1.1
-
-**Corregido**
-
-- Vitrina: ya se puede cambiar de estante. El dibujo de fondo de Piedra (y de Cristal, Arcade y Museo) se salía de su botón cuando ese estante estaba desbloqueado y tapaba toda la sección de estantes, así que cualquier toque caía en él y la vitrina se quedaba pegada en Piedra.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
