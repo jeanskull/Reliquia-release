@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.1.0-ensayo/Reliquia_1.1.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.1.1-ensayo/Reliquia_1.1.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.1.0-ensayo/Reliquia_1.1.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.1.1-ensayo/Reliquia_1.1.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.1.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.1.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,12 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.1.1
+
+**Corregido**
+
+- Vitrina: ya se puede cambiar de estante. El dibujo de fondo de Piedra (y de Cristal, Arcade y Museo) se salía de su botón cuando ese estante estaba desbloqueado y tapaba toda la sección de estantes, así que cualquier toque caía en él y la vitrina se quedaba pegada en Piedra.
+
 ## Novedades de la 1.1.0
 
 **Agregado**
@@ -78,12 +84,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Vitrina: los estantes, los reversos y los lugares ya se desbloquean con tu nivel real. Si la celebración de un rango nuevo no llegaba a verse, la vitrina se quedaba con el nivel anterior y no dejaba cambiar del estante de Piedra aunque ya hubieras ganado los demás.
 - En la PC, las flechas para pasar de carta ya no tapan los datos del reverso: bajan junto al texto. En el celular quedan por fuera de la carta.
-
-## Novedades de la 1.0.1
-
-**Corregido**
-
-- Animación de rango nuevo (celular y PC): el nombre ya no se parte entre letras ni se sale de la pantalla (si no cabe, la letra se achica), y la insignia queda centrada en su lugar en vez de bajarse y encimarse con el texto.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
