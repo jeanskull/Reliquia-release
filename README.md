@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.0.0-ensayo/Reliquia_1.0.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.0.1-ensayo/Reliquia_1.0.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.0.0-ensayo/Reliquia_1.0.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.0.1-ensayo/Reliquia_1.0.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.0.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.0.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -60,6 +60,12 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Tus claves de RetroAchievements y Steam se guardan **solo en tu dispositivo** y solo se usan para consultar tus logros. Nunca viajan a la nube.
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
+
+## Novedades de la 1.0.1
+
+**Corregido**
+
+- Animación de rango nuevo (celular y PC): el nombre ya no se parte entre letras ni se sale de la pantalla (si no cabe, la letra se achica), y la insignia queda centrada en su lugar en vez de bajarse y encimarse con el texto.
 
 ## Novedades de la 1.0.0
 
@@ -108,12 +114,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Una carta Desgastada con calidad baja ya no queda tan borrosa que no se lea el nombre.
 - **RetroAchievements:** si la plataforma pide calma (demasiadas consultas seguidas), la app espera y vuelve a intentar en lugar de dejar el juego sin leer. Antes, con muchos juegos, alguno quedaba pendiente para la siguiente sincronización.
 - **Juegos completos sin sobre dorado (al probar en la PC con `npm run dev`):** el navegador no dejaba leer los logros de cada juego, así que los juegos completos no contaban como completos. En desarrollo las consultas ahora pasan por el servidor de prueba. Las apps instaladas no tenían este problema. Con una cuenta real se comprobó que cada maestría da su sobre dorado y que «terminado» (beaten) sin todos los logros no cuenta como completo.
-
-## Novedades de la 0.7.1
-
-**Corregido**
-
-- La celebración de un rango nuevo ahora la cuida el núcleo, igual que en Hito y Cuentas Claras: el avatar, la insignia y tu perfil no muestran el rango nuevo hasta que ves la revelación.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
