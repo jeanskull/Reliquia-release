@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.3-ensayo/Reliquia_1.2.3_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.4-ensayo/Reliquia_1.2.4_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.3-ensayo/Reliquia_1.2.3_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.4-ensayo/Reliquia_1.2.4_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.2.3 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.2.4 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,17 +61,24 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.2.4
+
+**Agregado**
+
+- Tres acabados nuevos que salen en los sobres de siempre:
+- Marquesina ×2: un letrero de maquinita con focos que se persiguen alrededor del marco, filete dorado y un foco de escenario sobre el dibujo.
+- Circuito ×2.5: una tarjeta verde con pistas doradas por donde viajan pulsos de luz.
+- Bordado ×3: tela de manta con puntada de colores alrededor del dibujo y flores bordadas.
+
+**Mejorado**
+
+- Brillante ahora es un destello de gema: tres destellos grandes, con rayos largos, que se encienden uno a la vez, como luz que pega en una piedra tallada. Reemplaza la diamantina de la 1.2.3.
+
 ## Novedades de la 1.2.3
 
 **Mejorado**
 
 - Brillante y Acero ya no cruzan con un destello diagonal, que ahora es el sello de la calidad 9 y 10. Brillante es un barniz con diamantina: puntitos que titilan en el marco y un reflejo de laca en el dibujo. Acero es metal cepillado: un reflejo ancho que sube y baja despacio por sus rayitas, como al inclinar una placa.
-
-## Novedades de la 1.2.2
-
-**Mejorado**
-
-- El brillo de las cartas de calidad 9 y 10 ahora es un destello angosto que cruza en diagonal y se mezcla con la carta (blanco en la 9, de arcoíris en la 10). Antes era una franja ancha que se deslizaba pareja, como un recorte.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
