@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.5-ensayo/Reliquia_1.2.5_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.3.0-ensayo/Reliquia_1.3.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.5-ensayo/Reliquia_1.2.5_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.3.0-ensayo/Reliquia_1.3.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.2.5 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.3.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,22 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.3.0
+
+**Agregado**
+
+- Ediciones limitadas de fin de año, con 5 acabados cada una (la última de cada fiesta, la más difícil, vale ×4.5):
+- Navidad, del 24 al 26 de diciembre: Nochebuena, Esfera, Papel de regalo, Piñata y Estrella de Belén.
+- Año Nuevo, del 31 de diciembre al 2 de enero: Fuegos artificiales, Confeti, Doce uvas, Brindis y Cuenta regresiva.
+- Día de Reyes, del 5 al 7 de enero: Rosca, Corona y capa, Camellos, Carta a los Reyes y Muñequito.
+- Cuenta regresiva y Muñequito se animan una sola vez cada vez que abres la carta en grande: el reloj llega a las 12 y te felicita por el año nuevo (el de la fecha en que te salió la carta), y del pedazo de rosca sale el niñito.
+- Compartir una carta como imagen: en la carta en grande, «Compartir imagen» arma una imagen fija con tu identificador grande y tenue sobre el dibujo, tu nombre, el código de esa copia y el sello MUESTRA. Así se puede presumir sin que la imagen pase por la carta, que sigue siendo única y solo tuya.
+- Recordatorio del sobre diario en Android: en Ajustes eliges si quieres que te avise y a qué hora. Viene apagado. Los días de edición limitada te dice cuál es.
+
+**Mejorado**
+
+- Las cartas de fin de año nunca tapan el icono del logro: todo va detrás o alrededor.
+
 ## Novedades de la 1.2.5
 
 **Agregado**
@@ -77,19 +93,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Steam: si la plataforma pide calma (demasiadas consultas seguidas) o falla un momento, la app espera y vuelve a intentar, igual que RetroAchievements. Antes, con muchos juegos, alguno se podía quedar sin leer hasta la siguiente sincronización.
 - Al conectar una cuenta de Steam o de RetroAchievements, la prueba de la cuenta también espera y reintenta en vez de fallar a la primera.
-
-## Novedades de la 1.2.4
-
-**Agregado**
-
-- Tres acabados nuevos que salen en los sobres de siempre:
-- Marquesina ×2: un letrero de maquinita con focos que se persiguen alrededor del marco, filete dorado y un foco de escenario sobre el dibujo.
-- Circuito ×2.5: una tarjeta verde con pistas doradas por donde viajan pulsos de luz.
-- Bordado ×3: tela de manta con puntada de colores alrededor del dibujo y flores bordadas.
-
-**Mejorado**
-
-- Brillante ahora es un destello de gema: tres destellos grandes, con rayos largos, que se encienden uno a la vez, como luz que pega en una piedra tallada. Reemplaza la diamantina de la 1.2.3.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
