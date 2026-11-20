@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.3.1-ensayo/Reliquia_1.3.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.4.0-ensayo/Reliquia_1.4.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.3.1-ensayo/Reliquia_1.3.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.4.0-ensayo/Reliquia_1.4.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.3.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.4.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,33 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.4.0
+
+**Agregado**
+
+- Taller en Colección › Repetidas: la Fragua y la Hoguera son dos tarjetas al principio, con lo que tienes listo en cada una. La Fragua abre su propia hoja con todas tus rarezas.
+- Un punto naranja en Colección y en Repetidas cuando hay algo listo en el Taller que todavía no viste.
+- Al terminar de abrir un sobre que trajo repetidas, una franja te dice para qué sirven y te lleva al Taller.
+- «Abrir los N» en el sobre: abre todos tus sobres pendientes de una vez y te enseña lo mejor que salió.
+- Primeros pasos en Inicio: una lista de 5 pasos (conectar una cuenta, abrir un sobre, la vitrina, un álbum y el Taller) que se hace usando la app. Se puede quitar y volver a ver desde la Guía.
+- La primera vez que abres un sobre, una nota explica cómo se lee una carta (rareza, acabado, calidad y número de serie).
+- Registro de ediciones limitadas en la Guía › Acabados: cada edición con su fecha, cuándo vuelve y sus acabados. Los que tienes muestran el año de tus copias; los que te faltan salen como «?».
+
+**Mejorado**
+
+- La primera copia de cada carta («1.ª») siempre tiene calidad 7 a 10 y nunca sale Desgastada. Las «1.ª» que ya tenías con calidad menor suben a 7 o más, y las que salieron Desgastadas ahora son Normales.
+- La Hoguera solo quema cartas de calidad 6 o menos (las Desgastadas siempre entran). Lo que ya quemaste de calidad 7 conserva sus cenizas.
+- El desgaste ya no lava la carta: las arrugas solo oscurecen los pliegues y el dibujo conserva su color. Las Desgastadas dejan ver su icono y su nombre.
+- Inicio: la edición limitada va como cinta dentro del aviso del sobre (un aviso menos), y el Taller ocupa un solo lugar en «Lo que sigue».
+- Sobres muestra cuántas cenizas llevas para tu siguiente sobre de refuerzo.
+- En el celular, las cifras de Colección caben en un solo renglón.
+- En PC: Inicio en dos columnas (vitrina y lo pendiente), Sobres en dos columnas, la vitrina en una sola repisa de hasta 6 cartas, la carta en grande más ancha y el menú lateral empieza arriba.
+
+**Corregido**
+
+- El icono de «Puedes forjar…» en Inicio salía gigante en PC.
+- En la Guía, el mejor acabado se dibujaba como si fuera la barra de arriba (sin su muestra), y en PC los nombres y porcentajes se partían.
+
 ## Novedades de la 1.3.1
 
 **Agregado**
@@ -74,22 +101,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Quemar no quita EXP: la que te dio una carta se queda aunque la quemes.
 - La Guía explica el sobre de refuerzo.
-
-## Novedades de la 1.3.0
-
-**Agregado**
-
-- Ediciones limitadas de fin de año, con 5 acabados cada una (la última de cada fiesta, la más difícil, vale ×4.5):
-- Navidad, del 24 al 26 de diciembre: Nochebuena, Esfera, Papel de regalo, Piñata y Estrella de Belén.
-- Año Nuevo, del 31 de diciembre al 2 de enero: Fuegos artificiales, Confeti, Doce uvas, Brindis y Cuenta regresiva.
-- Día de Reyes, del 5 al 7 de enero: Rosca, Corona y capa, Camellos, Carta a los Reyes y Muñequito.
-- Cuenta regresiva y Muñequito se animan una sola vez cada vez que abres la carta en grande: el reloj llega a las 12 y te felicita por el año nuevo (el de la fecha en que te salió la carta), y del pedazo de rosca sale el niñito.
-- Compartir una carta como imagen: en la carta en grande, «Compartir imagen» arma una imagen fija con tu identificador grande y tenue sobre el dibujo, tu nombre, el código de esa copia y el sello MUESTRA. Así se puede presumir sin que la imagen pase por la carta, que sigue siendo única y solo tuya.
-- Recordatorio del sobre diario en Android: en Ajustes eliges si quieres que te avise y a qué hora. Viene apagado. Los días de edición limitada te dice cuál es.
-
-**Mejorado**
-
-- Las cartas de fin de año nunca tapan el icono del logro: todo va detrás o alrededor.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
