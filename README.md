@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.4.0-ensayo/Reliquia_1.4.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.0-ensayo/Reliquia_1.5.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.4.0-ensayo/Reliquia_1.4.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.0-ensayo/Reliquia_1.5.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.4.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,18 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.0
+
+**Agregado**
+
+- Sobre de refuerzo a tu elección, como los sobres de refuerzo de cromos de Steam: al abrirlo eliges el juego y las 5 cartas salen de él. Aparecen los juegos con 5 logros desbloqueados o más; si tienes muchos, hay un buscador. También puedes pedir «Sorpresa», que funciona como antes.
+- Ediciones completas: si juntas todos los acabados de una edición limitada en el mismo año, la completas. En la Guía › Acabados aparece su sello dorado («Completa 2026») y el lacre de esas cartas se vuelve de oro. Cada año se completa aparte.
+
+**Mejorado**
+
+- «Abrir los N» ya no abre los sobres de refuerzo, para que no pierdas la elección del juego; al final te recuerda cuántos te quedan.
+- En Sobres, si el siguiente es de refuerzo, el botón dice «Elegir juego y abrir».
+
 ## Novedades de la 1.4.0
 
 **Agregado**
@@ -87,20 +99,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - El icono de «Puedes forjar…» en Inicio salía gigante en PC.
 - En la Guía, el mejor acabado se dibujaba como si fuera la barra de arriba (sin su muestra), y en PC los nombres y porcentajes se partían.
-
-## Novedades de la 1.3.1
-
-**Agregado**
-
-- La Hoguera, en Colección › Repetidas: quema copias gastadas (calidad 7 o menos, o Desgastadas) y junta cenizas. Cada carta deja 2 cenizas si es Desgastada o de calidad 1 a 4, y 1 si es de calidad 5 a 7.
-- Sobre de refuerzo: cada 10 cenizas te dan uno, sin tope. Trae 5 cartas de tus logros, todas de calidad 5 o más, sin Desgastadas ni ediciones limitadas. Sale primero en Sobres.
-- Puedes quemar tu única copia de un acabado; antes te avisa cuáles son. Nunca se queman la primera carta que te salió de un logro («1.ª»), así que el logro nunca sale de su álbum. Tampoco las Firmadas, las de edición limitada, la carta dorada ni las de tu vitrina.
-- En la carta en grande, las copias que quemaste quedan anotadas con su número y su código, tachadas.
-
-**Mejorado**
-
-- Quemar no quita EXP: la que te dio una carta se queda aunque la quemes.
-- La Guía explica el sobre de refuerzo.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
