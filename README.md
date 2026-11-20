@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.4-ensayo/Reliquia_1.2.4_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.5-ensayo/Reliquia_1.2.5_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.4-ensayo/Reliquia_1.2.4_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.2.5-ensayo/Reliquia_1.2.5_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.2.4 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.2.5 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,23 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.2.5
+
+**Agregado**
+
+- Aviso de edición limitada en Inicio y en Sobres: mientras dura una edición (como la Revolución, Acción de Gracias o el Viernes Negro) una línea con el sello rojo te lo recuerda, el último día te dice que es el último, y la víspera te avisa que mañana empieza. No dice qué acabados trae: siguen siendo sorpresa.
+
+**Mejorado**
+
+- Las ediciones limitadas ahora duran tres días: un día antes de la fiesta, el día y un día después. La Revolución va del 19 al 21 de noviembre; Acción de Gracias, del 25 al 27, y el Viernes Negro, del 26 al 28. Cuando dos se juntan, esos días pueden salir cartas de las dos. Cada sobre diario de esos días trae una segura.
+- La portada del juego en el sobre ya se ve completa: la caja de RetroAchievements o el banner de Steam, sin recortar, sobre una copia difuminada de sí misma. Antes la caja (vertical) se cortaba arriba y abajo.
+- Los sobres que no son de un juego (diario, racha, bienvenida y rango) llevan detrás de su dibujo las portadas de los juegos donde ganaste logros más recientemente.
+
+**Corregido**
+
+- Steam: si la plataforma pide calma (demasiadas consultas seguidas) o falla un momento, la app espera y vuelve a intentar, igual que RetroAchievements. Antes, con muchos juegos, alguno se podía quedar sin leer hasta la siguiente sincronización.
+- Al conectar una cuenta de Steam o de RetroAchievements, la prueba de la cuenta también espera y reintenta en vez de fallar a la primera.
+
 ## Novedades de la 1.2.4
 
 **Agregado**
@@ -73,12 +90,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Mejorado**
 
 - Brillante ahora es un destello de gema: tres destellos grandes, con rayos largos, que se encienden uno a la vez, como luz que pega en una piedra tallada. Reemplaza la diamantina de la 1.2.3.
-
-## Novedades de la 1.2.3
-
-**Mejorado**
-
-- Brillante y Acero ya no cruzan con un destello diagonal, que ahora es el sello de la calidad 9 y 10. Brillante es un barniz con diamantina: puntitos que titilan en el marco y un reflejo de laca en el dibujo. Acero es metal cepillado: un reflejo ancho que sube y baja despacio por sus rayitas, como al inclinar una placa.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
