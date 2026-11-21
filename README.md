@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.1-ensayo/Reliquia_1.5.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.2-ensayo/Reliquia_1.5.2_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.1-ensayo/Reliquia_1.5.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.2-ensayo/Reliquia_1.5.2_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.2 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,25 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.2
+
+**Agregado**
+
+- Windows: recordatorio del sobre diario, como en Hito. Se prende en Más › Ajustes y el aviso llega mientras Reliquia esté abierta, aunque esté minimizada. Si Windows tiene bloqueados los avisos, Ajustes dice dónde activarlos.
+
+**Mejorado**
+
+- La edición limitada «Viernes Negro» ahora se llama «Black Friday».
+- Segunda tanda de acabados, aprobada por Jean. Ninguno lleva destellos ni barridos de luz:
+- Magma: la costra negra flota despacio encima de lava que corre en otra dirección, y suben brasas.
+- Escarcha: cristales de hielo que crecen desde las esquinas y se derriten. Sin el destello que cruzaba el marco ni las chispas.
+- Circuito: una placa de verdad con pistas, vías y pads; el dibujo va montado como chip con patitas doradas y un LED parpadea.
+- Glitch: de vez en cuando la imagen se rompe en franjas con bloques de color; sin la barra de luz.
+- Tinta: viñeta de cómic con el dibujo impreso en trama de puntos y líneas de acción.
+- CRT: tele de bulbo con pantalla curva, rejilla de fósforo, una banda oscura que baja y un brinquito de imagen.
+- Galaxia: una galaxia espiral gira lento detrás del dibujo, con las orillas difuminadas.
+- Plano: el dibujo trazado en líneas blancas, con cotas y una mira que va de una medida a otra.
+
 ## Novedades de la 1.5.1
 
 **Mejorado**
@@ -79,18 +98,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Android: los avisos del sobre diario se quedaban bloqueados. Reliquia leía el permiso una sola vez al abrir; si lo activabas en los ajustes del teléfono y regresabas, seguía creyendo que estaba bloqueado. Ahora lo vuelve a leer al regresar y antes de activar, y si Android ya no deja pedirlo, Ajustes trae un botón «Abrir ajustes» que lleva directo a las notificaciones de Reliquia.
-
-## Novedades de la 1.5.0
-
-**Agregado**
-
-- Sobre de refuerzo a tu elección, como los sobres de refuerzo de cromos de Steam: al abrirlo eliges el juego y las 5 cartas salen de él. Aparecen los juegos con 5 logros desbloqueados o más; si tienes muchos, hay un buscador. También puedes pedir «Sorpresa», que funciona como antes.
-- Ediciones completas: si juntas todos los acabados de una edición limitada en el mismo año, la completas. En la Guía › Acabados aparece su sello dorado («Completa 2026») y el lacre de esas cartas se vuelve de oro. Cada año se completa aparte.
-
-**Mejorado**
-
-- «Abrir los N» ya no abre los sobres de refuerzo, para que no pierdas la elección del juego; al final te recuerda cuántos te quedan.
-- En Sobres, si el siguiente es de refuerzo, el botón dice «Elegir juego y abrir».
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
