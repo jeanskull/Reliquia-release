@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.2-ensayo/Reliquia_1.5.2_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.3-ensayo/Reliquia_1.5.3_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.2-ensayo/Reliquia_1.5.2_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.3-ensayo/Reliquia_1.5.3_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.2 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.3 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,12 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.3
+
+**Corregido**
+
+- Android: al activar el recordatorio, Reliquia mandaba a la pantalla «Alarmas y recordatorios» con el interruptor gris, y al regresar volvía a mandarte ahí. El recordatorio pedía una alarma exacta y Reliquia no tiene ese permiso. Ahora es un aviso normal: puede llegar unos minutos después de la hora elegida, pero ya no pide ese permiso.
+
 ## Novedades de la 1.5.2
 
 **Agregado**
@@ -79,25 +85,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - CRT: tele de bulbo con pantalla curva, rejilla de fósforo, una banda oscura que baja y un brinquito de imagen.
 - Galaxia: una galaxia espiral gira lento detrás del dibujo, con las orillas difuminadas.
 - Plano: el dibujo trazado en líneas blancas, con cotas y una mira que va de una medida a otra.
-
-## Novedades de la 1.5.1
-
-**Mejorado**
-
-- Remake de 8 acabados, elegidos y aprobados por Jean:
-- Acuarela: papel con textura, manchas de bordes irregulares y el dibujo pintado, con los bordes corridos.
-- Negativo: ahora es una tira de película, con perforaciones, tono naranja y número de cuadro.
-- Mármol: mármol negro con vetas de oro, un brillo que pasa y el dibujo en una placa dorada.
-- Bordado: el mismo de antes, con el dibujo bordado en punto de cruz (sigue cuadrado).
-- Tormenta: gotas finas de distintos largos, con estela; el rayo se dibuja de arriba abajo.
-- Eclipse: el dibujo un poco más grande, la corona gira despacio, salen estrellas en el eclipse total y el anillo de diamante destella.
-- Neón: el dibujo a color sobre una pared de ladrillo, con doble tubo rosa y cian. Se enciende una vez al aparecer y luego, de vez en cuando, baja la luz a medias y vuelve, como un neón de verdad.
-- Holo inverso: todo el marco brilla en arcoíris con un barrido suave y el dibujo queda mate.
-- Las animaciones que se repiten cierran igual que empiezan, sin saltos.
-
-**Corregido**
-
-- Android: los avisos del sobre diario se quedaban bloqueados. Reliquia leía el permiso una sola vez al abrir; si lo activabas en los ajustes del teléfono y regresabas, seguía creyendo que estaba bloqueado. Ahora lo vuelve a leer al regresar y antes de activar, y si Android ya no deja pedirlo, Ajustes trae un botón «Abrir ajustes» que lleva directo a las notificaciones de Reliquia.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
