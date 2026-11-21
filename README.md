@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.4-ensayo/Reliquia_1.5.4_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.5-ensayo/Reliquia_1.5.5_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.4-ensayo/Reliquia_1.5.4_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.5-ensayo/Reliquia_1.5.5_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.4 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.5 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,27 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.5
+
+**Mejorado**
+
+- Cuarta tanda de acabados, aprobada por Jean. Sin reflejos ni barridos de luz:
+- Vitral: el dibujo partido en piezas de vidrio con plomo; atrás, algunas piezas se encienden poco a poco con la luz de afuera.
+- Mantel: mesa de Acción de Gracias vista desde arriba con plato, cubiertos, hojitas y una taza que echa vapor; el fleco se mece.
+- Etiqueta: etiqueta de cartón colgada de su hilo que se mece, con precio rebajado y sello rojo de REBAJADO.
+- Código de barras: caja de cartón con el dibujo como etiqueta, código de barras y un visor que baja el precio, pita y recibe una calcomanía de -50 %.
+- Ticket: la impresora saca el ticket con el dibujo impreso en térmico; luego se corta, cae y sale otro.
+- Remate: cinta de precaución que corre, estrella de oferta que gira y un letrero de tablillas de -30 % a -70 %.
+- Medianoche: la tienda cerrada a las 23:59; a las 00:00 se prende el letrero ABIERTO y sube la cortina.
+- Tarjeta negra: tarjeta de fibra de carbono mate con chip, número grabado, ondas de pago sin contacto y «Aprobada».
+- Pixel: nivel de juego de 8 bits con nubes, lomas, suelo de bloques, marcador y una moneda que suma puntos.
+- Marquesina: cine de antes con telón rojo, marco de focos que se persiguen y tablero de ESTRENO.
+- Con movimiento reducido (y en las capturas) la cortina de Medianoche queda abierta y el ticket impreso.
+
+**Corregido**
+
+- Plano: con fotos de portada o íconos pixelados el dibujo casi desaparecía (trazos sueltos, líneas dobles y ruido). Ahora el dibujo completo queda en cuatro tonos de azul de plano, con un trazo blanco fino encima sacado de una versión suavizada, y la cuadrícula se alcanza a ver.
+
 ## Novedades de la 1.5.4
 
 **Mejorado**
@@ -80,12 +101,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Plano en cartas de juego con foto de portada: en la vista grande el fondo quedaba negro y las líneas se llenaban de ruido. Ahora las líneas blancas se dibujan sobre el plano azul, con un filtro más suave para fotos.
 - Tinta: en imágenes chicas u oscuras (por ejemplo, íconos de GBA) la trama de puntos tapaba el logro. Ahora el dibujo se imprime a color en tintas planas, con negro solo en las sombras más fuertes y puntos de trama en las medias sombras.
-
-## Novedades de la 1.5.3
-
-**Corregido**
-
-- Android: al activar el recordatorio, Reliquia mandaba a la pantalla «Alarmas y recordatorios» con el interruptor gris, y al regresar volvía a mandarte ahí. El recordatorio pedía una alarma exacta y Reliquia no tiene ese permiso. Ahora es un aviso normal: puede llegar unos minutos después de la hora elegida, pero ya no pide ese permiso.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
