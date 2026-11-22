@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.7-ensayo/Reliquia_1.5.7_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.8-ensayo/Reliquia_1.5.8_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.7-ensayo/Reliquia_1.5.7_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.8-ensayo/Reliquia_1.5.8_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.7 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.8 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,22 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.8
+
+**Mejorado**
+
+- Remake de 10 acabados, aprobado por Jean en tres vueltas:
+- Full Art: el logro ocupa toda la carta, nítido, con un acercamiento lento y se desvanece suave hacia el título.
+- Shiny: como encontrarte un shiny: el logro en variocolor sobre una plataforma de pasto, estallido de estrellas y la estrellita roja.
+- Impactos: balazos con fogonazo (destello en estrella, núcleo blanco, chispas, humo y golpe de luz en toda la carta) y luego la grieta en el vidrio.
+- Firmada: la firma con el nombre del usuario se escribe con trazo grueso sobre la foto con sombra, junto a un sello «Auténtico ★ Verificado» con el ícono de la consola y listones.
+- Platino: marco de platino con diamantes en las esquinas, fondo grabado (guilloché), polvo plateado que sube y placa con laureles.
+- Dorada: para el juego completo: laureles con bayas, marco de perlas doradas, esquineros, listón «100 % COMPLETADO» con colas, copa, confeti y destellitos.
+- Prisma: el logro dentro de un triángulo de cristal con los colores del arcoíris girando alrededor.
+- Vacío: el de siempre con anillo de luz alrededor del agujero, polvo en espiral y estelas.
+- Ancestral: tablilla de piedra con runas que se encienden, greca, esquinas de oro y brasas.
+- Celestial: cielo con nubes de volumen, alas con plumas, doble halo, rayos y lucecitas que suben.
+
 ## Novedades de la 1.5.7
 
 **Mejorado**
@@ -81,25 +97,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Pixel: los íconos de los logros se llenaban de ruido de colores (el filtro de pixelado mezclaba los cuadros vecinos, sobre todo con la pantalla a 125 %). Ahora la imagen se pixela en un lienzo y cada cuadro conserva su color.
-
-## Novedades de la 1.5.6
-
-**Mejorado**
-
-- Remake de los acabados de Navidad y Año Nuevo, aprobado por Jean. El logro nunca se vuelve redondo:
-- Nochebuena: la flor como la real, con brácteas rojas con venas, hojas verdes y florecitas amarillas al centro, frente a una ventana con nieve.
-- Esfera: esfera pintada a mano colgada de una rama de pino con serie de luces; el logro va al centro de la esfera y se mece con ella.
-- Papel de regalo: caja envuelta con listón, moño y etiqueta.
-- Piñata: piñata de picos bajo papel picado; el logro va al centro, el palo le pega y los dulces salen disparados, caen, rebotan y se quedan en el piso.
-- Estrella de Belén: estrella grande de ocho picos con volumen, halo y un destello que sale cada tanto; la cola de luz baja hacia el logro sobre el pueblo de Belén.
-- Fuegos artificiales: los cohetes suben desde la ciudad, revientan, caen chispas y queda humo.
-- Doce uvas: plato con las doce uvas como reloj; cada campanada la campana se mece, una uva brinca y se la comen, y el contador sube hasta 12. Al final vuelven una por una.
-- Brindis: dos copas de champaña con burbujas que chocan arriba del logro; la champaña se queda nivelada, salpica y sale «¡Salud!».
-- Cuenta regresiva: reloj de manecillas y tablero que avanzan de 23:59:50 a las 12; luego estallidos, lluvia de confeti y «¡Feliz Año Nuevo!» con el año cifra por cifra. Se anima una vez y se queda en la felicitación.
-
-**Corregido**
-
-- Cartas de juego con estos acabados: la portada ya no queda como una franja angosta; llena el dibujo y los adornos van encima.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
