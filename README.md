@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.9-ensayo/Reliquia_1.5.9_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.10-ensayo/Reliquia_1.5.10_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.9-ensayo/Reliquia_1.5.9_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.10-ensayo/Reliquia_1.5.10_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.9 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.10 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,28 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.10
+
+**Mejorado**
+
+- Remake de las 10 ediciones limitadas de la Revolución y del Día de Reyes, aprobado por Jean en cuatro vueltas:
+- Tricolor: bandera de tela que ondea, papel picado calado que se mece y confeti tricolor.
+- Ferrocarril: atardecer en el desierto con un tren de vapor (faro, ruedas y biela que giran, revolucionarios con sombrero en el techo) que cruza un puente de madera echando humo, postes de telégrafo y saguaros. Marco nuevo de cobre y hierro.
+- Buscado: cartel de «SE BUSCA» clavado en tablones, con recompensa y la esquina que aletea.
+- Carrilleras: sarape de fondo y dos cananas de cuero con balas de latón que destellan una por una.
+- Balacera: como Impactos, pero del viejo oeste: pared de cantina con farol; cada balazo trae fogonazo, astillas y polvo y deja el agujero astillado. La carta se sacude solo con cada disparo.
+- Rosca: rosca vista desde arriba en su charola, con costra, ate, cerezas, vapor suave y los piecitos del muñeco.
+- Corona y capa: cortinas de terciopelo, corona de oro con gemas que destellan y capa de armiño.
+- Camellos: noche en el desierto con la estrella de Belén y los tres Reyes en camello, en caravana con sus regalos.
+- Carta a los Reyes: hoja de cuaderno que se escribe sola con un lápiz y se borra como por magia, con dibujitos, sobre y zapato con regalo.
+- Muñequito: rebanada con el muñequito asomando, tamales en el chiquihuite, jarrito de chocolate y «¡Te tocan los tamales!».
+- Logros sin imagen en estos acabados: el ícono va sobre una placa oscura para que se vea en fondos claros.
+
+**Corregido**
+
+- Lag con muchas cartas en pantalla: los adornos de rareza de 1.5.7 sumaban casi 300 animaciones en una rejilla de 24 cartas. En Colección, Álbum y al elegir carta ahora se ven quietos (se mueven al abrir la carta, en los sobres y en la Vitrina), cada carta lleva a lo más 5 partículas por tipo, y Mítica, Súper rara y Reliquia ya no animan brillos ni sombras de la carta entera. En la prueba, la rejilla pasó de unos 30 a 60 cuadros por segundo.
+- Suerte acumulada de «Acabado especial»: casi nunca avanzaba porque contaba cualquier acabado de ×1.75 o más (31 de 39; la mitad de los sobres ya traía uno) y las limitadas la reiniciaban en cada sobre diario. Ahora cuenta los de ×3 o más que no sean limitados (Jean), y la limitada del día ya no cae sobre la carta asegurada.
+
 ## Novedades de la 1.5.9
 
 **Corregido**
@@ -68,22 +90,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Impactos: la carta ya no tiembla por su cuenta (el temblor viejo iba a otro ritmo, sacudía sin fogonazo y descuadraba la animación). Ahora solo se sacude con cada disparo, el primer balazo llega casi al abrir la carta y los otros dos no aparecen antes de su fogonazo.
 - Full Art con calidad 10: el sello «Impecable» tapaba la rareza; ahora va abajo, a la altura de la etiqueta del acabado.
 - Celestial: era tan blanca que no se distinguían los detalles. Ahora lleva cielo de amanecer, marco y fondo dorados más profundos, y alas con más sombra.
-
-## Novedades de la 1.5.8
-
-**Mejorado**
-
-- Remake de 10 acabados, aprobado por Jean en tres vueltas:
-- Full Art: el logro ocupa toda la carta, nítido, con un acercamiento lento y se desvanece suave hacia el título.
-- Shiny: como encontrarte un shiny: el logro en variocolor sobre una plataforma de pasto, estallido de estrellas y la estrellita roja.
-- Impactos: balazos con fogonazo (destello en estrella, núcleo blanco, chispas, humo y golpe de luz en toda la carta) y luego la grieta en el vidrio.
-- Firmada: la firma con el nombre del usuario se escribe con trazo grueso sobre la foto con sombra, junto a un sello «Auténtico ★ Verificado» con el ícono de la consola y listones.
-- Platino: marco de platino con diamantes en las esquinas, fondo grabado (guilloché), polvo plateado que sube y placa con laureles.
-- Dorada: para el juego completo: laureles con bayas, marco de perlas doradas, esquineros, listón «100 % COMPLETADO» con colas, copa, confeti y destellitos.
-- Prisma: el logro dentro de un triángulo de cristal con los colores del arcoíris girando alrededor.
-- Vacío: el de siempre con anillo de luz alrededor del agujero, polvo en espiral y estelas.
-- Ancestral: tablilla de piedra con runas que se encienden, greca, esquinas de oro y brasas.
-- Celestial: cielo con nubes de volumen, alas con plumas, doble halo, rayos y lucecitas que suben.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
