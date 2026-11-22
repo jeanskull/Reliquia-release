@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.12-ensayo/Reliquia_1.5.12_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.0-ensayo/Reliquia_1.6.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.12-ensayo/Reliquia_1.5.12_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.0-ensayo/Reliquia_1.6.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.12 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.6.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,20 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.6.0
+
+**Agregado**
+
+- Cuenta de PlayStation: pegas una vez tu código NPSSO (la app explica dónde sale) y Reliquia lee tus trofeos de PS5, PS4, PS3 y Vita con su rareza real. El Platino cuenta el juego como completo y da su sobre dorado, aunque falten trofeos de expansiones. El permiso dura unos dos meses; cuando vence, la app pide un código nuevo.
+- Cuenta de Xbox: botón «Entrar con Microsoft». Reliquia muestra un código, lo escribes en microsoft.com/link y listo. Lee logros de Xbox Series, Xbox One, PC y Xbox 360, con su rareza (los de 360 no la traen y salen como Común).
+- Insignias de PlayStation 3, 4, 5 y Vita, y de Xbox 360, One, Series y Windows (en las cartas y en la Guía).
+- Filtro por cuenta en la colección (Steam, RetroAchievements, PlayStation o Xbox).
+
+**Mejorado**
+
+- Los permisos de PlayStation y Xbox se renuevan solos en cada sincronización y viven solo en este equipo, como las claves de Steam y RetroAchievements.
+- En Cuentas se anuncia GOG, Epic y más (vía Playnite) como próximo.
+
 ## Novedades de la 1.5.12
 
 **Agregado**
@@ -90,26 +104,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Alebrije (Jean): las espirales y las grecas se borraban y se repintaban de golpe, y a ratos quedaban discos vacíos y líneas cortadas. Ahora nada se borra: las grecas corren de lado sin cortes y las espirales giran sobre su centro.
-
-## Novedades de la 1.5.11
-
-**Agregado**
-
-- 10 acabados nuevos, aprobados por Jean con bocetos en dos vueltas, cada uno con su escena dibujada:
-- Origami (×1.5): papel doblado en facetas y tres grullas que aletean.
-- Periódico (×1.5): primera plana de «El Relicario» con titular, columnas y la foto en trama de imprenta; sello EXTRA que se estampa.
-- Lotería (×1.75): carta de lotería con número, «EL CAMPEÓN» y un frijol que se levanta y vuelve a caer.
-- Cassette (×1.75): etiqueta escrita a mano «Mix 88», carretes que giran y cinta corriendo.
-- Talavera (×2): azulejos poblanos azul cobalto con un brillo de vidriado que pasa.
-- Vinilo (×2.25): el logro es la portada del álbum; el disco asoma girando, se mete a la funda y vuelve a salir.
-- Pirograbado (×2.25): el logro quemado en madera con vetas y ramas; una punta encendida traza el marco.
-- Alebrije (×2.5): espirales que giran, zigzags que se repintan, gotas y flores que cambian de tono.
-- Mapa del tesoro (×2.75): pergamino con montes, palmeras, rosa de los vientos y barco; una luz sigue la ruta hasta la X.
-- Constelación (×3): cielo nocturno, estrellas que forman un marco con corona, una luz que lo recorre y estrella fugaz.
-
-**Corregido**
-
-- Cartas de juego (Jean): en los acabados con escena, la portada tapaba todo el recuadro o quedaba como una tira angosta, y en Pixel se estiraba y se pixelaba de más. Ahora va enmarcada como el logro, completa y con su forma (las de Steam son anchas), en 27 acabados: Pixel, Acero, Matriz, Marea, Circuito, Vacío, Ancestral, Ticket, Medianoche, Ferrocarril, Carrilleras, Balacera, Rosca, Corona y capa, Camellos, Carta a los Reyes, Muñequito y los 10 nuevos.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
