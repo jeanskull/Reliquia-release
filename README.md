@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.6-ensayo/Reliquia_1.5.6_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.7-ensayo/Reliquia_1.5.7_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.6-ensayo/Reliquia_1.5.6_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.7-ensayo/Reliquia_1.5.7_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.6 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.7 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,27 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.7
+
+**Mejorado**
+
+- Remake de 10 acabados, aprobado por Jean. Sin reflejos ni barridos de luz:
+- Circuito: placa madre en macro, con chip negro de patitas doradas, buses de pistas por donde corren datos, componentes, serigrafía y LED.
+- Desgastada: carta olvidada en un cajón, con papel manchado, pliegue, cinta vieja, nota a lápiz y polvo que flota. Ya no lleva círculos: sin agujeros redondos, sin aro de café y sin manchas redondas.
+- Brillante: el fondo borroso del dibujo de siempre, con destellos de gema que se encienden uno a uno y marco claro alrededor del logro.
+- Sepia: la foto chueca de álbum con esquineros de siempre, ahora con grano de película, motas de polvo, un pelito que cruza y la fecha escrita a mano en el borde. Sin el destello que pasaba.
+- Acero: placa de acero cepillado con tornillos y un cordón de soldadura que se enfría.
+- Holográfica: lámina con patrón que cambia de color, sin barrido.
+- Matriz: consola portátil de pantalla de puntos con un monito que camina.
+- Marea: el logro flota en el mar, se mece con las olas y sube y baja con la marea, con burbujas debajo.
+- Normal por rareza: el marco del dibujo lleva adornos en las esquinas que crecen con la rareza (hojas, triángulos, estrellas, filigrana, corona y más) y partículas en las más altas.
+- Reverso por rareza: los mismos adornos en las esquinas y una trama suave con el emblema de la rareza.
+- Las rarezas ya no tienen barridos ni bordes que corren: Rara, Súper rara, Legendaria y Reliquia quedan quietas como las demás.
+
+**Corregido**
+
+- Pixel: los íconos de los logros se llenaban de ruido de colores (el filtro de pixelado mezclaba los cuadros vecinos, sobre todo con la pantalla a 125 %). Ahora la imagen se pixela en un lienzo y cada cuadro conserva su color.
+
 ## Novedades de la 1.5.6
 
 **Mejorado**
@@ -79,27 +100,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Cartas de juego con estos acabados: la portada ya no queda como una franja angosta; llena el dibujo y los adornos van encima.
-
-## Novedades de la 1.5.5
-
-**Mejorado**
-
-- Cuarta tanda de acabados, aprobada por Jean. Sin reflejos ni barridos de luz:
-- Vitral: el dibujo partido en piezas de vidrio con plomo; atrás, algunas piezas se encienden poco a poco con la luz de afuera.
-- Mantel: mesa de Acción de Gracias vista desde arriba con plato, cubiertos, hojitas y una taza que echa vapor; el fleco se mece.
-- Etiqueta: etiqueta de cartón colgada de su hilo que se mece, con precio rebajado y sello rojo de REBAJADO.
-- Código de barras: caja de cartón con el dibujo como etiqueta, código de barras y un visor que baja el precio, pita y recibe una calcomanía de -50 %.
-- Ticket: la impresora saca el ticket con el dibujo impreso en térmico; luego se corta, cae y sale otro.
-- Remate: cinta de precaución que corre, estrella de oferta que gira y un letrero de tablillas de -30 % a -70 %.
-- Medianoche: la tienda cerrada a las 23:59; a las 00:00 se prende el letrero ABIERTO y sube la cortina.
-- Tarjeta negra: tarjeta de fibra de carbono mate con chip, número grabado, ondas de pago sin contacto y «Aprobada».
-- Pixel: nivel de juego de 8 bits con nubes, lomas, suelo de bloques, marcador y una moneda que suma puntos.
-- Marquesina: cine de antes con telón rojo, marco de focos que se persiguen y tablero de ESTRENO.
-- Con movimiento reducido (y en las capturas) la cortina de Medianoche queda abierta y el ticket impreso.
-
-**Corregido**
-
-- Plano: con fotos de portada o íconos pixelados el dibujo casi desaparecía (trazos sueltos, líneas dobles y ruido). Ahora el dibujo completo queda en cuatro tonos de azul de plano, con un trazo blanco fino encima sacado de una versión suavizada, y la cuadrícula se alcanza a ver.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
