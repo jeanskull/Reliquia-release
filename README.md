@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.0-ensayo/Reliquia_1.6.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.1-ensayo/Reliquia_1.6.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.0-ensayo/Reliquia_1.6.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.1-ensayo/Reliquia_1.6.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.6.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.6.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,16 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.6.1
+
+**Agregado**
+
+- Iconos identificadores (Jean): las insignias de PlayStation 3/4/5/Vita y Xbox 360/One/Series/Windows llevan el icono de su marca, como Steam. En Cuentas y en Más, cada cuenta muestra su propio icono (Steam, RetroAchievements, PlayStation y Xbox). Si un icono no carga, se ve el dibujo de siempre.
+
+**Corregido**
+
+- Xbox (Jean): los juegos aparecían pero sin ningún logro desbloqueado. Xbox a veces dice «0 logros» en la lista de juegos aunque tengas gamerscore, y los juegos de Xbox 360 jugados en Xbox One o Series no traían su lista. Ahora Reliquia se fija también en tu gamerscore, lee esos juegos por la vía de Xbox 360 y vuelve a leer los que se habían quedado vacíos. Basta con sincronizar Xbox otra vez.
+
 ## Novedades de la 1.6.0
 
 **Agregado**
@@ -74,36 +84,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Los permisos de PlayStation y Xbox se renuevan solos en cada sincronización y viven solo en este equipo, como las claves de Steam y RetroAchievements.
 - En Cuentas se anuncia GOG, Epic y más (vía Playnite) como próximo.
-
-## Novedades de la 1.5.12
-
-**Agregado**
-
-- Edición limitada de las Posadas (del 16 al 24 de diciembre, sus 9 noches), aprobada por Jean en dos vueltas:
-- Peregrinos (×4.5): portón de la posada con papel picado y la procesión con velitas que pasa.
-- Velitas (×4): velas encendidas con escurridos y nochebuenas.
-- Ponche (×4): olla de barro con fruta, vapor y jarritos.
-- Aguinaldo (×4): bolsitas de dulces sobre manta de rayas, con confeti.
-- Farolitos (×4): farolitos de papel de colores que se mecen sobre el pueblo de noche.
-- Temporada de Invierno (la semana del solsticio, del 18 al 24 de diciembre): la primera temporada.
-- Nevada (×4): pueblito con muñeco de nieve y nieve que cae.
-- Copo de nieve (×4.5): copo gigante cristalino que gira despacio entre copos chicos.
-- Chimenea (×4): fuego vivo, botas colgadas y guirnalda.
-- Bufanda (×4): tejido navideño de estambre con su madeja.
-- Pino nevado (×4): bosque nevado con luna y cabañita.
-- Sello de temporada (Jean): las cartas de temporada llevan una estampilla de correo dentada con el color de su estación (Invierno azul; ya preparadas Primavera, Verano y Otoño). La Guía la marca igual.
-- Medalla de la 1.ª carta (Jean): la primera copia de cada logro lleva en el reverso una medalla de oro con laureles y listón «PRIMERA».
-
-**Mejorado**
-
-- Sello de edición limitada rehecho (Jean): lacre de cera con relieve, letras en círculo, el año al centro y listones abajo. El de edición completa es el mismo en oro pulido, y la estampilla de una temporada completa sale con marco dorado.
-- Pirograbado (Jean): tabla con vetas, nudos, marco doble con punteado y una enredadera con hojas y flores quemadas alrededor del logro; un pirograbador la recorre con la punta al rojo, deja la línea fresca que se enfría y suelta humito.
-- Matriz (Jean): consolita con cruceta, botones y bocina; abajo del logro corre un nivel con nubes, lomas y suelo a distinta velocidad, y el personaje salta una caja y atrapa un diamante que suma +10 al marcador.
-- Alebrije: más detalle, con rayos en las espirales, flores de ocho pétalos y dos colibríes pintados que revolotean.
-
-**Corregido**
-
-- Alebrije (Jean): las espirales y las grecas se borraban y se repintaban de golpe, y a ratos quedaban discos vacíos y líneas cortadas. Ahora nada se borra: las grecas corren de lado sin cortes y las espirales giran sobre su centro.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
