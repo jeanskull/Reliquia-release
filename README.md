@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.5-ensayo/Reliquia_1.5.5_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.6-ensayo/Reliquia_1.5.6_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.5-ensayo/Reliquia_1.5.5_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.6-ensayo/Reliquia_1.5.6_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.5 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.6 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,25 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.6
+
+**Mejorado**
+
+- Remake de los acabados de Navidad y Año Nuevo, aprobado por Jean. El logro nunca se vuelve redondo:
+- Nochebuena: la flor como la real, con brácteas rojas con venas, hojas verdes y florecitas amarillas al centro, frente a una ventana con nieve.
+- Esfera: esfera pintada a mano colgada de una rama de pino con serie de luces; el logro va al centro de la esfera y se mece con ella.
+- Papel de regalo: caja envuelta con listón, moño y etiqueta.
+- Piñata: piñata de picos bajo papel picado; el logro va al centro, el palo le pega y los dulces salen disparados, caen, rebotan y se quedan en el piso.
+- Estrella de Belén: estrella grande de ocho picos con volumen, halo y un destello que sale cada tanto; la cola de luz baja hacia el logro sobre el pueblo de Belén.
+- Fuegos artificiales: los cohetes suben desde la ciudad, revientan, caen chispas y queda humo.
+- Doce uvas: plato con las doce uvas como reloj; cada campanada la campana se mece, una uva brinca y se la comen, y el contador sube hasta 12. Al final vuelven una por una.
+- Brindis: dos copas de champaña con burbujas que chocan arriba del logro; la champaña se queda nivelada, salpica y sale «¡Salud!».
+- Cuenta regresiva: reloj de manecillas y tablero que avanzan de 23:59:50 a las 12; luego estallidos, lluvia de confeti y «¡Feliz Año Nuevo!» con el año cifra por cifra. Se anima una vez y se queda en la felicitación.
+
+**Corregido**
+
+- Cartas de juego con estos acabados: la portada ya no queda como una franja angosta; llena el dibujo y los adornos van encima.
+
 ## Novedades de la 1.5.5
 
 **Mejorado**
@@ -81,26 +100,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Plano: con fotos de portada o íconos pixelados el dibujo casi desaparecía (trazos sueltos, líneas dobles y ruido). Ahora el dibujo completo queda en cuatro tonos de azul de plano, con un trazo blanco fino encima sacado de una versión suavizada, y la cuadrícula se alcanza a ver.
-
-## Novedades de la 1.5.4
-
-**Mejorado**
-
-- Tercera tanda de acabados, aprobada por Jean. Cinco son de la edición de Acción de Gracias, que llega el 25 de noviembre:
-- Hojas de otoño: una rama con hojas arriba y hojas de maple, roble y abedul que caen girando. Algunas pasan cerca, desenfocadas, y abajo queda un montón de hojas.
-- Cosecha: un campo de trigo al atardecer que se mece con el viento.
-- Calabaza: una calabaza grande con gajos, tallo, hoja y guía, y dos calabacitas sobre paja, con luna y luciérnagas.
-- Gratitud: velas con cera escurrida y halos que laten, sobre una mesa de madera con espigas y hojas, y «Gracias» escrito a mano.
-- Abundancia: un cuerno de mimbre tejido del que salen manzanas, uvas, una pera, un elote, una calabacita y espigas.
-- Confeti: lluvia de confeti que gira en el aire.
-- Aurora: cortinas de aurora boreal sobre montañas nevadas, con los velos de color de antes y el tono que va cambiando.
-- Casquillos: los casquillos salen disparados, caen rebotando y se juntan en un montón, con algo de humo.
-- Con menos movimiento (y en las capturas), las hojas y el confeti se quedan repartidos en la carta en vez de esconderse arriba.
-
-**Corregido**
-
-- Plano en cartas de juego con foto de portada: en la vista grande el fondo quedaba negro y las líneas se llenaban de ruido. Ahora las líneas blancas se dibujan sobre el plano azul, con un filtro más suave para fotos.
-- Tinta: en imágenes chicas u oscuras (por ejemplo, íconos de GBA) la trama de puntos tapaba el logro. Ahora el dibujo se imprime a color en tintas planas, con negro solo en las sombras más fuertes y puntos de trama en las medias sombras.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
