@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.11-ensayo/Reliquia_1.5.11_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.12-ensayo/Reliquia_1.5.12_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.11-ensayo/Reliquia_1.5.11_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.12-ensayo/Reliquia_1.5.12_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.11 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.12 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,36 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.12
+
+**Agregado**
+
+- Edición limitada de las Posadas (del 16 al 24 de diciembre, sus 9 noches), aprobada por Jean en dos vueltas:
+- Peregrinos (×4.5): portón de la posada con papel picado y la procesión con velitas que pasa.
+- Velitas (×4): velas encendidas con escurridos y nochebuenas.
+- Ponche (×4): olla de barro con fruta, vapor y jarritos.
+- Aguinaldo (×4): bolsitas de dulces sobre manta de rayas, con confeti.
+- Farolitos (×4): farolitos de papel de colores que se mecen sobre el pueblo de noche.
+- Temporada de Invierno (la semana del solsticio, del 18 al 24 de diciembre): la primera temporada.
+- Nevada (×4): pueblito con muñeco de nieve y nieve que cae.
+- Copo de nieve (×4.5): copo gigante cristalino que gira despacio entre copos chicos.
+- Chimenea (×4): fuego vivo, botas colgadas y guirnalda.
+- Bufanda (×4): tejido navideño de estambre con su madeja.
+- Pino nevado (×4): bosque nevado con luna y cabañita.
+- Sello de temporada (Jean): las cartas de temporada llevan una estampilla de correo dentada con el color de su estación (Invierno azul; ya preparadas Primavera, Verano y Otoño). La Guía la marca igual.
+- Medalla de la 1.ª carta (Jean): la primera copia de cada logro lleva en el reverso una medalla de oro con laureles y listón «PRIMERA».
+
+**Mejorado**
+
+- Sello de edición limitada rehecho (Jean): lacre de cera con relieve, letras en círculo, el año al centro y listones abajo. El de edición completa es el mismo en oro pulido, y la estampilla de una temporada completa sale con marco dorado.
+- Pirograbado (Jean): tabla con vetas, nudos, marco doble con punteado y una enredadera con hojas y flores quemadas alrededor del logro; un pirograbador la recorre con la punta al rojo, deja la línea fresca que se enfría y suelta humito.
+- Matriz (Jean): consolita con cruceta, botones y bocina; abajo del logro corre un nivel con nubes, lomas y suelo a distinta velocidad, y el personaje salta una caja y atrapa un diamante que suma +10 al marcador.
+- Alebrije: más detalle, con rayos en las espirales, flores de ocho pétalos y dos colibríes pintados que revolotean.
+
+**Corregido**
+
+- Alebrije (Jean): las espirales y las grecas se borraban y se repintaban de golpe, y a ratos quedaban discos vacíos y líneas cortadas. Ahora nada se borra: las grecas corren de lado sin cortes y las espirales giran sobre su centro.
+
 ## Novedades de la 1.5.11
 
 **Agregado**
@@ -80,28 +110,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Cartas de juego (Jean): en los acabados con escena, la portada tapaba todo el recuadro o quedaba como una tira angosta, y en Pixel se estiraba y se pixelaba de más. Ahora va enmarcada como el logro, completa y con su forma (las de Steam son anchas), en 27 acabados: Pixel, Acero, Matriz, Marea, Circuito, Vacío, Ancestral, Ticket, Medianoche, Ferrocarril, Carrilleras, Balacera, Rosca, Corona y capa, Camellos, Carta a los Reyes, Muñequito y los 10 nuevos.
-
-## Novedades de la 1.5.10
-
-**Mejorado**
-
-- Remake de las 10 ediciones limitadas de la Revolución y del Día de Reyes, aprobado por Jean en cuatro vueltas:
-- Tricolor: bandera de tela que ondea, papel picado calado que se mece y confeti tricolor.
-- Ferrocarril: atardecer en el desierto con un tren de vapor (faro, ruedas y biela que giran, revolucionarios con sombrero en el techo) que cruza un puente de madera echando humo, postes de telégrafo y saguaros. Marco nuevo de cobre y hierro.
-- Buscado: cartel de «SE BUSCA» clavado en tablones, con recompensa y la esquina que aletea.
-- Carrilleras: sarape de fondo y dos cananas de cuero con balas de latón que destellan una por una.
-- Balacera: como Impactos, pero del viejo oeste: pared de cantina con farol; cada balazo trae fogonazo, astillas y polvo y deja el agujero astillado. La carta se sacude solo con cada disparo.
-- Rosca: rosca vista desde arriba en su charola, con costra, ate, cerezas, vapor suave y los piecitos del muñeco.
-- Corona y capa: cortinas de terciopelo, corona de oro con gemas que destellan y capa de armiño.
-- Camellos: noche en el desierto con la estrella de Belén y los tres Reyes en camello, en caravana con sus regalos.
-- Carta a los Reyes: hoja de cuaderno que se escribe sola con un lápiz y se borra como por magia, con dibujitos, sobre y zapato con regalo.
-- Muñequito: rebanada con el muñequito asomando, tamales en el chiquihuite, jarrito de chocolate y «¡Te tocan los tamales!».
-- Logros sin imagen en estos acabados: el ícono va sobre una placa oscura para que se vea en fondos claros.
-
-**Corregido**
-
-- Lag con muchas cartas en pantalla: los adornos de rareza de 1.5.7 sumaban casi 300 animaciones en una rejilla de 24 cartas. En Colección, Álbum y al elegir carta ahora se ven quietos (se mueven al abrir la carta, en los sobres y en la Vitrina), cada carta lleva a lo más 5 partículas por tipo, y Mítica, Súper rara y Reliquia ya no animan brillos ni sombras de la carta entera. En la prueba, la rejilla pasó de unos 30 a 60 cuadros por segundo.
-- Suerte acumulada de «Acabado especial»: casi nunca avanzaba porque contaba cualquier acabado de ×1.75 o más (31 de 39; la mitad de los sobres ya traía uno) y las limitadas la reiniciaban en cada sobre diario. Ahora cuenta los de ×3 o más que no sean limitados (Jean), y la limitada del día ya no cae sobre la carta asegurada.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
