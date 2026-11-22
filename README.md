@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.10-ensayo/Reliquia_1.5.10_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.11-ensayo/Reliquia_1.5.11_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.10-ensayo/Reliquia_1.5.10_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.5.11-ensayo/Reliquia_1.5.11_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.5.10 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.5.11 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,26 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.5.11
+
+**Agregado**
+
+- 10 acabados nuevos, aprobados por Jean con bocetos en dos vueltas, cada uno con su escena dibujada:
+- Origami (×1.5): papel doblado en facetas y tres grullas que aletean.
+- Periódico (×1.5): primera plana de «El Relicario» con titular, columnas y la foto en trama de imprenta; sello EXTRA que se estampa.
+- Lotería (×1.75): carta de lotería con número, «EL CAMPEÓN» y un frijol que se levanta y vuelve a caer.
+- Cassette (×1.75): etiqueta escrita a mano «Mix 88», carretes que giran y cinta corriendo.
+- Talavera (×2): azulejos poblanos azul cobalto con un brillo de vidriado que pasa.
+- Vinilo (×2.25): el logro es la portada del álbum; el disco asoma girando, se mete a la funda y vuelve a salir.
+- Pirograbado (×2.25): el logro quemado en madera con vetas y ramas; una punta encendida traza el marco.
+- Alebrije (×2.5): espirales que giran, zigzags que se repintan, gotas y flores que cambian de tono.
+- Mapa del tesoro (×2.75): pergamino con montes, palmeras, rosa de los vientos y barco; una luz sigue la ruta hasta la X.
+- Constelación (×3): cielo nocturno, estrellas que forman un marco con corona, una luz que lo recorre y estrella fugaz.
+
+**Corregido**
+
+- Cartas de juego (Jean): en los acabados con escena, la portada tapaba todo el recuadro o quedaba como una tira angosta, y en Pixel se estiraba y se pixelaba de más. Ahora va enmarcada como el logro, completa y con su forma (las de Steam son anchas), en 27 acabados: Pixel, Acero, Matriz, Marea, Circuito, Vacío, Ancestral, Ticket, Medianoche, Ferrocarril, Carrilleras, Balacera, Rosca, Corona y capa, Camellos, Carta a los Reyes, Muñequito y los 10 nuevos.
+
 ## Novedades de la 1.5.10
 
 **Mejorado**
@@ -82,14 +102,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 
 - Lag con muchas cartas en pantalla: los adornos de rareza de 1.5.7 sumaban casi 300 animaciones en una rejilla de 24 cartas. En Colección, Álbum y al elegir carta ahora se ven quietos (se mueven al abrir la carta, en los sobres y en la Vitrina), cada carta lleva a lo más 5 partículas por tipo, y Mítica, Súper rara y Reliquia ya no animan brillos ni sombras de la carta entera. En la prueba, la rejilla pasó de unos 30 a 60 cuadros por segundo.
 - Suerte acumulada de «Acabado especial»: casi nunca avanzaba porque contaba cualquier acabado de ×1.75 o más (31 de 39; la mitad de los sobres ya traía uno) y las limitadas la reiniciaban en cada sobre diario. Ahora cuenta los de ×3 o más que no sean limitados (Jean), y la limitada del día ya no cae sobre la carta asegurada.
-
-## Novedades de la 1.5.9
-
-**Corregido**
-
-- Impactos: la carta ya no tiembla por su cuenta (el temblor viejo iba a otro ritmo, sacudía sin fogonazo y descuadraba la animación). Ahora solo se sacude con cada disparo, el primer balazo llega casi al abrir la carta y los otros dos no aparecen antes de su fogonazo.
-- Full Art con calidad 10: el sello «Impecable» tapaba la rareza; ahora va abajo, a la altura de la etiqueta del acabado.
-- Celestial: era tan blanca que no se distinguían los detalles. Ahora lleva cielo de amanecer, marco y fondo dorados más profundos, y alas con más sombra.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
