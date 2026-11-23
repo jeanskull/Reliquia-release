@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.1-ensayo/Reliquia_1.6.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.2-ensayo/Reliquia_1.6.2_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.1-ensayo/Reliquia_1.6.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.6.2-ensayo/Reliquia_1.6.2_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.6.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.6.2 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,20 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.6.2
+
+**Agregado**
+
+- Seis acabados de videojuegos (Jean), permanentes y cada uno con su escena: Cartucho ×2 (entra a la consola y se prende el foco, con el logro pegado a la etiqueta), Arcade ×2.25 (maquinita con palanca, botones y marcador), Partida guardada ×2.5 (tarjeta de memoria que se llena), Contrarreloj ×2.75 (cronómetro de speedrun con récord), Jefe final ×3 (barra de vida que baja a K.O.) y Logro desbloqueado ×3.5 (el aviso sale una vez y se queda fijo).
+
+**Mejorado**
+
+- Nombre del acabado (Jean): ya no tapa los detalles. Se ve 3 s al aparecer la carta y se encoge a un puntito en su esquina; al tocar el puntito vuelve a salir. Con animaciones reducidas o desactivadas el nombre se queda fijo.
+
+**Corregido**
+
+- Iconos identificadores (Jean): el de PlayStation (en las cartas de PS3/PS4/PS5/Vita y en Cuentas) y el de RetroAchievements en Cuentas no aparecían, porque sus páginas no dejan usar su icono desde otra app. Ahora esos dos vienen dentro de Reliquia y siempre se ven.
+
 ## Novedades de la 1.6.1
 
 **Agregado**
@@ -70,20 +84,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Xbox (Jean): los juegos aparecían pero sin ningún logro desbloqueado. Xbox a veces dice «0 logros» en la lista de juegos aunque tengas gamerscore, y los juegos de Xbox 360 jugados en Xbox One o Series no traían su lista. Ahora Reliquia se fija también en tu gamerscore, lee esos juegos por la vía de Xbox 360 y vuelve a leer los que se habían quedado vacíos. Basta con sincronizar Xbox otra vez.
-
-## Novedades de la 1.6.0
-
-**Agregado**
-
-- Cuenta de PlayStation: pegas una vez tu código NPSSO (la app explica dónde sale) y Reliquia lee tus trofeos de PS5, PS4, PS3 y Vita con su rareza real. El Platino cuenta el juego como completo y da su sobre dorado, aunque falten trofeos de expansiones. El permiso dura unos dos meses; cuando vence, la app pide un código nuevo.
-- Cuenta de Xbox: botón «Entrar con Microsoft». Reliquia muestra un código, lo escribes en microsoft.com/link y listo. Lee logros de Xbox Series, Xbox One, PC y Xbox 360, con su rareza (los de 360 no la traen y salen como Común).
-- Insignias de PlayStation 3, 4, 5 y Vita, y de Xbox 360, One, Series y Windows (en las cartas y en la Guía).
-- Filtro por cuenta en la colección (Steam, RetroAchievements, PlayStation o Xbox).
-
-**Mejorado**
-
-- Los permisos de PlayStation y Xbox se renuevan solos en cada sincronización y viven solo en este equipo, como las claves de Steam y RetroAchievements.
-- En Cuentas se anuncia GOG, Epic y más (vía Playnite) como próximo.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
