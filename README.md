@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.1-ensayo/Reliquia_1.7.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.2-ensayo/Reliquia_1.7.2_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.1-ensayo/Reliquia_1.7.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.2-ensayo/Reliquia_1.7.2_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.7.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.7.2 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,36 +61,23 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.7.2
+
+**Corregido**
+
+- Portadas de Xbox (Jean): no se veían porque Xbox entrega sus imágenes con http y la app solo carga imágenes seguras (https). Ahora se piden por https y, si el juego la tiene, se usa su caja vertical. Los juegos que ya tenías también se arreglan sin volver a sincronizar. PlayStation recibe el mismo cuidado.
+- Cartas de juego (Jean): la portada tapaba el dibujo de casi todos los acabados. Ahora va donde va el icono del logro en cada uno (en la etiqueta del cassette, en el cartel de Buscado, en la foto del periódico, en la funda del vinilo…), así se ve el acabado completo. Solo Normal, Full Art y Juego completo la llevan a todo el recuadro.
+- Inclinación de la carta en la computadora (Jean): al mover el ratón la carta se veía borrosa porque se agrandaba un poco. Ahora se aleja lo justo al girar, el giro es más suave y se mantiene nítida.
+- Guía › Ediciones (Jean): las cartas en miniatura salían con letras fijas que no cabían (nombre cortado, número con «…»). Ahora se ven completas, igual que en tu colección.
+- Guía › Ediciones: el lacre de la siguiente fiesta en la tira de arriba se veía más abajo que los demás.
+- Sellos del reverso (medalla 1.ª, lacre y estampilla): centrados y sin pisar la línea de «Lo tiene».
+- Papel de regalo: el moño ya no empuja la cabecera de la carta ni se sale por arriba.
+
 ## Novedades de la 1.7.1
 
 **Corregido**
 
 - Parpadeo al abrir (Jean): mientras cargaban tu nivel, tu cuenta y la nube, la pantalla se volvía a dibujar varias veces y las cartas reiniciaban su animación. Ahora esos avisos se juntan en un solo dibujo y, si nada cambió, la pantalla no se toca.
-
-## Novedades de la 1.7.0
-
-**Agregado**
-
-- Seguimiento de tus juegos (Jean): marca cada juego como Jugando, En pausa, Terminado o Lo dejé. La lista de Juegos tiene un filtro por estado, los que juegas van primero y puedes ordenar por lo reciente, el avance, las horas o el nombre.
-- Siguiente logro: la ficha de cada juego te dice cuál te conviene sacar después, y puedes fijar hasta 3 logros como objetivo. El fijado sale también en Inicio, en «Lo que sigue».
-- Ayudas para cada logro: guías de la comunidad de Steam, la guía oficial y los comentarios de RetroAchievements, PSNProfiles y PowerPyx para PlayStation, TrueAchievements para Xbox, YouTube y la web. Son enlaces que se abren fuera de la app. En los logros ocultos se avisa antes de buscar, para no arruinarte la sorpresa.
-- «Dónde me quedé»: una nota corta en cada juego que viaja con tu colección a tus otros equipos.
-- Horas jugadas (Steam) y la última vez que jugaste cada juego.
-- Estadísticas de tu colección en Más.
-
-**Mejorado**
-
-- Guía, pestaña Ediciones (Jean): cada edición limitada tiene su lacre de cera con su color y su dibujo, un anillo de avance y tus cartas reales en miniatura. Arriba se ve la tira de fiestas del año; abiertas solo la de hoy y la que sigue.
-- Portadas de los juegos: ahora son verticales, como una caja de juego. Si un juego no trae portada se ve una caja con sus iniciales.
-- Cada juego muestra dos barras: los logros que tienes y las cartas que te han salido.
-- Barra lateral en la computadora: la sección activa se marca con una píldora y el aviso de sobres ya no tapa el icono. Icono nuevo de Juegos (Jean): un control con cruceta y botones.
-- Ajustes (Jean): igual que en Hito y Cuentas Claras, en grupos con una fila por tema que se abre ahí mismo. Novedades, Enviar comentarios y Acerca de están dentro de Ajustes, con el aviso «Nuevo» cuando hay versión reciente.
-- Novedades agrupadas por mes y año, con un resumen de cada versión («4 nuevos · 1 mejora»), igual en las tres apps.
-- Menos cosas repetidas: Colección ya no tiene la pestaña Álbumes (el avance de cada juego está en Juegos) y las cuentas de Más tienen un solo botón.
-
-**Corregido**
-
-- Acabado Contrarreloj (Jean): los datos del cronómetro se encimaban y quedaban cortados. Ahora la escena se ve completa, el encabezado va a la derecha para no chocar con el sello y el récord anterior se oculta cuando marcas el nuevo.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
