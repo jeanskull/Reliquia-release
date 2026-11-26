@@ -8,14 +8,14 @@
 Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.0-ensayo/Reliquia_1.7.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.1-ensayo/Reliquia_1.7.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.0-ensayo/Reliquia_1.7.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Reliquia-release/releases/download/v1.7.1-ensayo/Reliquia_1.7.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Reliquia-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.7.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.7.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/resumen.jpg" width="820" alt="Colección de Reliquia con cartas de ejemplo">
@@ -61,6 +61,12 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 - Si inicias sesión con Google, tu colección y tu nivel se sincronizan entre tus equipos.
 - Los nombres, iconos y portadas de los juegos y consolas pertenecen a sus dueños; Reliquia los muestra tal como los entregan RetroAchievements y Steam.
 
+## Novedades de la 1.7.1
+
+**Corregido**
+
+- Parpadeo al abrir (Jean): mientras cargaban tu nivel, tu cuenta y la nube, la pantalla se volvía a dibujar varias veces y las cartas reiniciaban su animación. Ahora esos avisos se juntan en un solo dibujo y, si nada cambió, la pantalla no se toca.
+
 ## Novedades de la 1.7.0
 
 **Agregado**
@@ -85,20 +91,6 @@ Conecta RetroAchievements o Steam, abre sobres y arma tu colección. Para Androi
 **Corregido**
 
 - Acabado Contrarreloj (Jean): los datos del cronómetro se encimaban y quedaban cortados. Ahora la escena se ve completa, el encabezado va a la derecha para no chocar con el sello y el récord anterior se oculta cuando marcas el nuevo.
-
-## Novedades de la 1.6.2
-
-**Agregado**
-
-- Seis acabados de videojuegos (Jean), permanentes y cada uno con su escena: Cartucho ×2 (entra a la consola y se prende el foco, con el logro pegado a la etiqueta), Arcade ×2.25 (maquinita con palanca, botones y marcador), Partida guardada ×2.5 (tarjeta de memoria que se llena), Contrarreloj ×2.75 (cronómetro de speedrun con récord), Jefe final ×3 (barra de vida que baja a K.O.) y Logro desbloqueado ×3.5 (el aviso sale una vez y se queda fijo).
-
-**Mejorado**
-
-- Nombre del acabado (Jean): ya no tapa los detalles. Se ve 3 s al aparecer la carta y se encoge a un puntito en su esquina; al tocar el puntito vuelve a salir. Con animaciones reducidas o desactivadas el nombre se queda fijo.
-
-**Corregido**
-
-- Iconos identificadores (Jean): el de PlayStation (en las cartas de PS3/PS4/PS5/Vita y en Cuentas) y el de RetroAchievements en Cuentas no aparecían, porque sus páginas no dejan usar su icono desde otra app. Ahora esos dos vienen dentro de Reliquia y siempre se ven.
 
 Desde la app puedes ver el historial completo en **Más → Novedades**, y mandarnos ideas o avisar de un fallo en **Más → Enviar comentarios**.
 
